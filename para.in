@@ -1,0 +1,8 @@
+Tmax 5.0
+Dt 0.1
+J 1.0
+nx 16
+ny 16
+nsweep 100000
+nwarmup 1000
+ifoutp  1
